@@ -13,7 +13,6 @@ Deployed Application:  https://gentle-refuge-02981.herokuapp.com/
 * [Installation](#installation)
 * [Usage](#usage)
 * [Questions](#questions)
-* [Contributors](#contributors)
 * [License](#license)
 
 ## Installation
@@ -26,9 +25,6 @@ Clone the repository and run `npm install`
 
 To use this application run `npm start`
 
-
-## Contributors
-Cameron Quicksall
 
 #### Questions
 [email](mailto:cameron.quicksall70@gmail.com)
