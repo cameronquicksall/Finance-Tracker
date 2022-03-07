@@ -24,6 +24,7 @@ Clone the repository and run `npm install`
 ## Usage
 
 To use this application run `npm start`
+![Screen Shot 2022-03-06 at 9 09 37 PM (2)](https://user-images.githubusercontent.com/91788324/156961373-9d0f7354-d96a-49ae-b6cc-b01549f8a3bf.png)
 
 
 #### Questions
