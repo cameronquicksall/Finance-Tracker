@@ -4,7 +4,7 @@
 ![GitHub license](https://img.shields.io/badge/License-MIT-blue)
     
 # Description
-This is a PWA (Progressive Web Application) Budget Tracking Application where the user can track their expenses with the addition of offline functionality. A user can add or deduct expenses based on their budget or simply keep track of how much money they have spent. This application was built using Mongoose, MongoDB, IndexedDB, and Express.
+This is a PWA (Progressive Web Application) Budget Tracking Application where the user can track their expenses with the addition of offline functionality. A user can add or deduct expenses based on their budget or simply keep track of how much money they have spent. This application was built using Mongoose, MongoDB, IndexedDB, Social Workers and a web manifest.
 
 Deployed Application:  https://gentle-refuge-02981.herokuapp.com/
 
